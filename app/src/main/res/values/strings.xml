@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">INDAABIN</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_prueba">Prueba</string>
+    <string name="title_activity_perfil">Perfil</string>
+
+    <!--Principal-->
+    <string name="tab_map">Mapa</string>
+    <string name="tab_photo">Fotos</string>
+    <string name="tab_discovery">Descubre</string>
+
+    <!--MAP -->
+    <string name="streetMapId">pk.eyJ1IjoiZGFuaWVsYnJlbmEiLCJhIjoiOTAyYzU2ZmYwY2FkMzE1NzQzNDIwODk4MGRkOGY5NTYifQ.zAzwXBLipTp5oFbB0mut8A</string>
+    <string name="testAccessToken">pk.eyJ1IjoiZGFuaWVsYnJlbmEiLCJhIjoiOTAyYzU2ZmYwY2FkMzE1NzQzNDIwODk4MGRkOGY5NTYifQ.zAzwXBLipTp5oFbB0mut8A</string>
+
+    <!--Layout dialog-->
+    <string name="dialog_edit">Título de la foto</string>
+    <string name="dialog_btn_1">Cancelar</string>
+    <string name="dialog_btn_2">Enviar</string>
+    <string name="title_activity_busqueda">BusquedaActivity</string>
+    <string name="title_activity_realidad_aumentada">RealidadAumentada</string>
+    <string name="title_activity_fotografia">Imagen</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_bievenida">Bievenida</string>
+    <string name="title_activity_bienvenida">BienvenidaActivity</string>
+
+
+    <!--Dialog usuario-->
+    <string name="dialog_user_titulo">¡ Bienvenido !</string>
+    <string name="dialog_user_nombre">Nombre</string>
+    <string name="dialog_user_apellidos">Apellidos</string>
+    <string name="dialog_user_mensaje">Si quieres disfrutar al maximo la aplicación, te recomendamos identificarte con tu nombre.</string>
+    <string name="dialog_user_bnt_guardar">Guardar</string>
+    <string name="dialog_user_btn_cancelar">Por el momento no</string>
+    <string name="title_activity_photo_detail">Imagen</string>
+</resources>

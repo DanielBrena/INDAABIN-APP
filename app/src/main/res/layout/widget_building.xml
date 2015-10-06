@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#09C">
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/museo"
+            android:id="@+id/foto_perfil_widget"
+            />
+        <ImageButton
+            android:src="@drawable/ic_action_reload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+
+            android:text="Recargar"
+            android:id="@+id/btn_recargar_widget"
+            android:background="#3373a6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:padding="12dip"
+            android:text="asdasd"
+            android:id="@+id/titulo_widget"
+            android:textColor="#ffffffff"
+            android:elegantTextHeight="false"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:autoText="true"
+            android:layout_marginBottom="30dp"
+            android:layout_alignBottom="@+id/foto_perfil_widget"
+            android:layout_alignParentStart="true">
+
+        </TextView>
+
+
+
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
